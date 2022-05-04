@@ -1,6 +1,6 @@
 # Absolute Security.
 
-Ravenwood Security Solutions is a Rec Room clan dedicated to ensuring the protection of othet clans,  
+Ravenwood Security Solutions is a Rec Room clan dedicated to ensuring the protection of other clans,  
 against any enemy and under all conditions.  
   
 We guarantee consistent operation even during an all-out raid from a conventionally unstoppable force.  
