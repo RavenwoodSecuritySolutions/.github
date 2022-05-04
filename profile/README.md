@@ -28,7 +28,8 @@ If someone is offering to sell you circuits on behalf of Ravenwood, you are bein
 ## COMMISSIONS
   
 As previously stated, any commissions rendered by Ravenwood memebers are entirely at their own liabilty and are not considered official RSS business.
+ 
+---- 
   
-
 Thank you for reading.  
 Questions, comments, and other communications may be directed to Rose932#1454 on Discord or via the in-game feedback system in ^RavenwoodSecuritySolutions-RSS.
