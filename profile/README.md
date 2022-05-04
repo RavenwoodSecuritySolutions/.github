@@ -25,7 +25,7 @@ Please note that compensation for services rendered is currently unsupported. We
 We do not currently license our anti-cheat or spawn protection circuits, period.  
 If someone is offering to sell you circuits on behalf of Ravenwood, you are being scammed. Please alert us.  
 
-# COMMISSIONs
+# COMMISSIONS
   
 As previously stated, any commissions rendered by Ravenwood memebers are entirely at their own liabilty and are not considered official RSS business.
   
